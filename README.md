@@ -18,7 +18,9 @@ Install nuget packages
 dotnet restore
 ```
 Run the application
+```bash
 dotnet run
+```
 
 ## Endpoints
 
