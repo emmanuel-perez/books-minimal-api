@@ -11,6 +11,15 @@ HTTPS
 ```bash
 git clone https://github.com/emmanuel-perez/books-minimal-api.git
 ```
+
+## Run the application
+Install nuget packages
+```bash
+dotnet restore
+```
+Run the application
+dotnet run
+
 ## Endpoints
 
 ### Postman Documentation:
